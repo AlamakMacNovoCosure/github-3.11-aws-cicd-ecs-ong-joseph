@@ -1,6 +1,6 @@
 FROM node:14
 
-WORKDIR /usr/src/app
+WORKDIR /joseph-express-app/
 
 COPY package*.json ./
 
